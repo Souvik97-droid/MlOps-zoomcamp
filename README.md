@@ -1,3 +1,3 @@
-# MlOps-zoomcamp
+# MLOps-zoomcamp
 
 This is an example
